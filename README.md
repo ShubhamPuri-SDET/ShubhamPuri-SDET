@@ -17,7 +17,7 @@ I am a fervent Clean Code and Automation Evangelist deeply committed to crafting
 - ⚡ Fun fact: I love to explore new technologies and write blogs
 
 ## Connect with Me
-- [LinkedIn](https://github.com/ShubhamPuri-SDET)
+- [LinkedIn](https://www.linkedin.com/in/shubhampuri07/)
 - [GitHub](https://github.com/ShubhamPuri-SDET)
-- [Email](Spuri4867@gmail.com)
+- Spuri4867@gmail.com
 
