@@ -6,7 +6,7 @@ I am a fervent Clean Code and Automation Evangelist deeply committed to crafting
 
 
 ## Skills
- Java, Selenium, Jira, Visual Studio Code, Eclipse, Jenkins, gCampaign, Excel, Git, PractiTest, SQL
+ Java, Selenium, Jira, Visual Studio Code, Eclipse, Jenkins, gCampaign, Excel, VBA, Git, PractiTest, SQL, API Testing
 
 ## About Me
 - 🔭 I’m currently working in Perficient India as Test Engineer
@@ -18,4 +18,6 @@ I am a fervent Clean Code and Automation Evangelist deeply committed to crafting
 
 ## Connect with Me
 - [LinkedIn](https://github.com/ShubhamPuri-SDET)
-- [GitHub](https://github.com/shubham-puri07)
+- [GitHub](https://github.com/ShubhamPuri-SDET)
+- [Email](Spuri4867@gmail.com)
+
